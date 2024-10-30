@@ -1,0 +1,10 @@
+.logo {
+    display: flex; /* Use flexbox to arrange items in a line */
+    align-items: center; /* Center items vertically */
+}
+
+.logo img {
+    width: 40px; /* Set desired width */
+    height: 40px; /* Set desired height to maintain aspect ratio */
+    margin-right: 10px; /* Space between image and text */
+}

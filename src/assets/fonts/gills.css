@@ -1,0 +1,6 @@
+@font-face {
+    font-family: 'Gill Sans Ultra Bold';
+    src: url('./gill-sans-ultra-bold.ttf') format('truetype'); /* Update path if needed */
+    font-weight: bold; /* Specify weight */
+    font-style: normal; /* Specify style */
+}
