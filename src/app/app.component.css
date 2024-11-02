@@ -8,3 +8,9 @@
     height: 40px; /* Set desired height to maintain aspect ratio */
     margin-right: 10px; /* Space between image and text */
 }
+
+.box {
+    color: #f2921d !important;
+    font-weight: 1000 !important;
+    text-decoration:wavy !important;
+}

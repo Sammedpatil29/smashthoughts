@@ -11,11 +11,12 @@ import {
   MatDialogRef,
   MatDialogTitle,
 } from '@angular/material/dialog';
+import { WhatsappbubbleComponent } from "./components/whatsappbubble/whatsappbubble.component";
 
 @Component({
   selector: 'app-root',
   standalone: true,
-  imports: [RouterOutlet, ContactformComponent, MatButtonModule],
+  imports: [RouterOutlet, ContactformComponent, MatButtonModule, WhatsappbubbleComponent],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css',
   changeDetection: ChangeDetectionStrategy.OnPush,
